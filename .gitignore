@@ -1,0 +1,11 @@
+*.apk
+# Ignore build output and temporary files
+/build/
+*.log
+*.temp
+*.lock
+
+# Ignore IDE or editor settings
+.vscode/
+.idea/
+
