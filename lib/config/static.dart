@@ -34,7 +34,7 @@ class StaticVarMethod{
 
 
 
-  static String baseurlall= "http://5.189.158.9";
+  static String baseurlall= "http://94.72.112.160";
 
 
   // static String listimageurl= 'http://38.gpsautomototrack.com/assets/applogo/sftech.png';

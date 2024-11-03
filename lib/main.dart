@@ -71,7 +71,6 @@ class _MyHomePageState extends State<MyHomePage> {
     return MultiProvider(
 
       providers: [
-
         ChangeNotifierProvider(create: (_) => theme_changer_provider()),
         ChangeNotifierProvider(create: (_) => ObjectStore()),
       ],

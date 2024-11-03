@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745721916133",
+    "project_id": "tacktech-f22bb",
+    "storage_bucket": "tacktech-f22bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745721916133:android:4c054cc6fa1a0157e5020c",
+        "android_client_info": {
+          "package_name": "co.gps.trackTech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI6VAt9bEacnewajll7jD6OS6jeMXXl9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
