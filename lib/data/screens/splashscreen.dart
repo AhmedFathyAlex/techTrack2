@@ -39,15 +39,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   void checkPreference() async {
     prefs = await SharedPreferences.getInstance();
-    if (prefs!.get('baseurlall') != null) {
-      StaticVarMethod.baseurlall=prefs!.get('baseurlall').toString();
-    } else {
-      //sf tracking
-       StaticVarMethod.baseurlall="https://gps-track.co";
-
-    }
-
-
+   
     if (prefs!.get('email') != null) {
       if (prefs!.get("popup_notify") == null) {
         prefs!.setBool("popup_notify", true);

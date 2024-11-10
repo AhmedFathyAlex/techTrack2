@@ -1,0 +1,1 @@
+ C:\\Users\\Admin\\Desktop\\tech_track_gps_tracker\\.dart_tool\\flutter_build\\8f0a3dfc1e7110d3ae194f04625c1ef5\\native_assets.yaml: 

@@ -115,7 +115,6 @@ class gpsapis{
 
     SharedPreferences prefs = await SharedPreferences.getInstance();
       final response = await http.get(Uri.parse(StaticVarMethod.baseurlall + "/api/login?email=$email&password=$password"));
-      //final response = await http.get(Uri.parse(StaticVarMethod.baseurlall + "/api/login?login_id=$email&password=$password"));
 
     if (response.statusCode == 200) {
 
