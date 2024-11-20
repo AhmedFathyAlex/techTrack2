@@ -801,9 +801,9 @@
     },
     {
       "name": "petitparser",
-      "rootUri": "file:///C:/Users/Admin/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-5.0.0",
+      "rootUri": "file:///C:/Users/Admin/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-6.0.2",
       "packageUri": "lib/",
-      "languageVersion": "2.16"
+      "languageVersion": "3.2"
     },
     {
       "name": "platform",
@@ -844,6 +844,12 @@
     {
       "name": "provider",
       "rootUri": "file:///C:/Users/Admin/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rename_app",
+      "rootUri": "file:///C:/Users/Admin/AppData/Local/Pub/Cache/hosted/pub.dev/rename_app-1.6.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -1293,9 +1299,9 @@
     },
     {
       "name": "xml",
-      "rootUri": "file:///C:/Users/Admin/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.1.0",
+      "rootUri": "file:///C:/Users/Admin/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.5.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.2"
     },
     {
       "name": "yaml",
@@ -1310,7 +1316,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2024-11-03T10:35:24.247630Z",
+  "generated": "2024-11-16T21:25:45.787246Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }

@@ -1,4 +1,4 @@
-package co.gps.trackTech
+package com.gpstracker.techtrack
 
 import io.flutter.embedding.android.FlutterActivity
 

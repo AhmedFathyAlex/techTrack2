@@ -16,7 +16,7 @@ class Images{
   static String changePasswordImage = "assets/settingicon/changepassword.png";
   static String changeSettingIcon = "assets/images/change-device-setting.png";
   // static String coverImageNew = "assets/images/newcover.jpeg";
-  static String splashImageNew = "assets/images/splashpictureNew.png";
-  static String appLogoNew = "assets/images/appLogoNew.png";
-  static String appBarLogoNew = "assets/images/appBarPictureNew.png";
+  static String splashImageNew = "assets/images/cover.png";
+  static String appLogoNew = "assets/images/logo.jpeg";
+  static String appBarLogoNew = "assets/images/cover.png";
 }

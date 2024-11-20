@@ -100,6 +100,7 @@ dependencies:
   #easy_date_timeline: ^1.1.3
   #easy_date_timeline: ^1.0.4
   easy_date_timeline: ^1.0.0
+  rename_app: ^1.6.1
 
 
   #awesome_notifications: any
@@ -118,7 +119,7 @@ dev_dependencies:
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/images/appLogoNew.png"
+  image_path: "assets/images/logo.jpeg"
   min_sdk_android: 21
 
 

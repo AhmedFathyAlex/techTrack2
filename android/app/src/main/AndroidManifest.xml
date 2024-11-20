@@ -1,6 +1,6 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-package="co.gps.trackTech">
+package="com.gpstracker.techtrack">
 
 
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -31,7 +31,7 @@ package="co.gps.trackTech">
         </intent>
     </queries>
 <application
-    android:label="Track Tech GPS"
+    android:label="GDC Track"
     android:name="${applicationName}"
     android:usesCleartextTraffic="true"
     android:icon="@mipmap/launcher_icon">
